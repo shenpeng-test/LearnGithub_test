@@ -11,6 +11,7 @@ int main()
 	int N, M;
 	cin >> N;
 	cin >> M;
+	int a=1;
 	vector<int>D(M, 0);
 	for (int i = 0; i < M; ++i)
 	{
